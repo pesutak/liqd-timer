@@ -28,5 +28,6 @@
     "liqd-flow": "^1.2.8",
     "mocha": "^5.0.4",
     "nyc": "^14.1.1"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
